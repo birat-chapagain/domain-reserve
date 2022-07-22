@@ -44,8 +44,8 @@ function App() {
             console.log("Not Hovering");
           }}
         >
-          <span data-show>by Rohit Kumar Sah</span>
-          <span>+977 9818506752</span>
+          <span data-show>by Birat Chapagain</span>
+          <span>+977 985=64451362</span>
           <span>for portfolio.</span>
         </div>
       </h2>
