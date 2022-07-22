@@ -13,7 +13,7 @@ const Socials = () => {
     <React.Fragment>
       <Button
         onClick={(event) =>
-          (window.location.href = "https://github.com/sahrohit")
+          (window.location.href = "https://github.com/birat-chapagain")
         }
       >
         <GitHubIcon className="icon1" />
@@ -21,22 +21,14 @@ const Socials = () => {
       <Button
         onClick={(event) =>
           (window.location.href =
-            "https://www.facebook.com/imadeyoureadthis26/")
-        }
-      >
-        <FacebookIcon className="icon2" />
-      </Button>
-      <Button
-        onClick={(event) =>
-          (window.location.href =
-            "https://www.linkedin.com/in/rohit-sah-96a10a1b8/")
+            "https://www.linkedin.com/in/birat-chapagain-6a6b16220/")
         }
       >
         <LinkedInIcon className="icon2" />
       </Button>
       <Button
         onClick={(event) =>
-          (window.location.href = "https://twitter.com/sah_rohite")
+          (window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ")
         }
       >
         <TwitterIcon className="icon2" />
