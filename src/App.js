@@ -45,7 +45,7 @@ function App() {
           }}
         >
           <span data-show>by Birat Chapagain</span>
-          <span>+977 985=64451362</span>
+          <span>+977 9864451362</span>
           <span>for portfolio.</span>
         </div>
       </h2>
